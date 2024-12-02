@@ -1,0 +1,16 @@
+git config -list (anybody config or not check)
+git config --global user.email "emailid"
+git config --global user.name "name"
+git clone url  (res create)
+cd foldername (navigation)
+git add filename.txt (one file)
+git add . (All files)
+git commit -m "any messege" (ready to file)
+git push   (git hub authentication) (github lo file push  )
+git pull (git nundi pull)
+git log (history commit id also display)
+git revert commit id ivali enter then ctrl+d (save): qa(exit)  (modification  file deleting )
+git push (git lo file delete)
+git rm -rf filename.txt (deleting folder file)
+git commit -m "message"  (git lo remove ki)
+git push
